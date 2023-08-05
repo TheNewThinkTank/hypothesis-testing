@@ -1,4 +1,3 @@
-[![GitHub repo size](https://img.shields.io/github/repo-size/TheNewThinkTank/AACT-Analysis?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/TheNewThinkTank/AACT-Analysis/archive/refs/heads/main.zip)
 [![GitHub repo size](https://img.shields.io/github/repo-size/TheNewThinkTank/hypothesis-testing?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/TheNewThinkTank/hypothesis-testing/archive/refs/heads/main.zip)
 # Hypothesis-Testing
 Hypothesis: University towns have their mean housing prices less effected by recessions.
